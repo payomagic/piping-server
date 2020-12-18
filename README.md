@@ -1,4 +1,8 @@
 # Piping Server
+
+howto for SSH,VNC -> dev.to
+(https://dev.to/nwtgck/the-power-of-pure-http-screen-share-real-time-messaging-ssh-and-vnc-5ghc)
+
 [![npm](https://img.shields.io/npm/v/piping-server.svg)](https://www.npmjs.com/package/piping-server) [![CodeFactor](https://www.codefactor.io/repository/github/nwtgck/piping-server/badge)](https://www.codefactor.io/repository/github/nwtgck/piping-server) [![CircleCI](https://circleci.com/gh/nwtgck/piping-server.svg?style=shield)](https://circleci.com/gh/nwtgck/piping-server) [![Build status](https://ci.appveyor.com/api/projects/status/g075o30d5pp4m0pa?svg=true)](https://ci.appveyor.com/project/nwtgck/piping-server)  [![GitHub Actions](https://github.com/nwtgck/piping-server/workflows/Node%20CI/badge.svg)](https://github.com/nwtgck/piping-server/actions) [![Docker Automated build](https://img.shields.io/docker/automated/nwtgck/piping-server.svg)](https://hub.docker.com/r/nwtgck/piping-server/)
  [![](https://images.microbadger.com/badges/image/nwtgck/piping-server.svg)](https://microbadger.com/images/nwtgck/piping-server "Get your own image badge on microbadger.com") [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=nwtgck/piping-server)](https://dependabot.com)
 
